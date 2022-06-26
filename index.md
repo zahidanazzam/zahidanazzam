@@ -1,6 +1,6 @@
 ## Azzam Zahidan
 
-You can use the [editor on GitHub](https://github.com/zahidanazzam/zahidanazzam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi everyone,I am Azzam Zahidan.I am a python programmer from Indonesia. I am good in python.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
